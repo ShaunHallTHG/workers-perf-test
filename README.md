@@ -4,6 +4,8 @@
 * gnuplot
 * sed
 
+# Secret variable
+Run `export ALTITUDE_ACCESS_KEY=<secret>`
 
 Run `perf-tests.sh`
 
