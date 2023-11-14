@@ -2,6 +2,7 @@
 
 declare -A sites
 sites[vanillaJS]="a4f1e09c"
+sites[vanillaJSWithAstroBlob]="ac1d3adc"
 sites[astroStarter]="67329b3f"
 sites[altitudeMTCWithMiddleware]="a7cbe441"
 sites[altitudeMTCNoMiddleware]="3c34dea7"
